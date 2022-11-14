@@ -6,3 +6,4 @@ The sudokuSolver is based upon backtracking algorithm.
 
 Backtracking - trys to build a solution incrementally and recursively. If a value entered violates the base set rules, then it backtracks and checks for another value
 			untill answer is found
+!https://github.com/Gupta-Aryaman/sudokuSolver/blob/main/inititalBoard.png
